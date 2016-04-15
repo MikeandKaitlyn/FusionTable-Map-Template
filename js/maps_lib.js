@@ -10,7 +10,6 @@
 
         // the encrypted Table ID of your Fusion Table (found under File => About)
         this.fusionTableId = options.fusionTableId || "",
-        polygon1TableID:    "1rOsqObNGk9jZnZX9He9P_-79JtkzrdJe1tNzSZ7O",
 
         // Found at https://console.developers.google.com/
         // Important! this key is for demonstration purposes. please register your own.
